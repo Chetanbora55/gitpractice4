@@ -1,1 +1,1 @@
-Line added at master branch
+conflict resolved
